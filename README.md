@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://githubreadmestats-rajasree-lahas-projects.vercel.app/api?username=rajasree460&show_icons=true&locale=en" alt="rajasree460" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajasree460&" alt="rajasree460" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajasree460&" alt="rajasree460" /></p>-->
 
 
 [![GitHub Streak](https://rajasree-github-readme-streak-stats.vercel.app?user=rajasree460)](https://git.io/streak-stats)
