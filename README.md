@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajasree460&" alt="rajasree460" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rajasree460&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rajasree460)](https://git.io/streak-stats)
 
 
 
