@@ -22,7 +22,7 @@
 
 <!--<p><img align="left" src="https://githubreadmestats-rajasree-lahas-projects.vercel.app/api/top-langs?username=rajasree460&show_icons=true&locale=en&layout=compact" alt="rajasree460" /></p>-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasree460&layout=compact)
+!<p><img align="left" [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasree460&layout=compact) alt="rajasree460" /></p>
 
 
 <!--<p>&nbsp;<img align="center" src="https://githubreadmestats-rajasree-lahas-projects.vercel.app/api?username=rajasree460&show_icons=true&locale=en" alt="rajasree460" /></p>-->
