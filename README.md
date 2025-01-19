@@ -22,6 +22,8 @@
 
 <p><img align="left" src="https://githubreadmestats-rajasree-lahas-projects.vercel.app/api/top-langs?username=rajasree460&show_icons=true&locale=en&layout=compact" alt="rajasree460" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajasree460)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>&nbsp;<img align="center" src="https://githubreadmestats-rajasree-lahas-projects.vercel.app/api?username=rajasree460&show_icons=true&locale=en" alt="rajasree460" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajasree460&" alt="rajasree460" /></p>-->
