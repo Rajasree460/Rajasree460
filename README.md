@@ -37,6 +37,4 @@
 
 
 
-[![GitHub Streak](https://rajasree-github-readme-streak-stats.vercel.app?user=rajasree460)](https://git.io/streak-stats)
-
 
