@@ -29,12 +29,14 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajasree460)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<a href="https://github.com/Rajasree460/github-readme-stats">
+<!--<a href="https://github.com/Rajasree460/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rajasree460" />
 </a>
 <a href="https://github.com/Rajasree460/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajasree460&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a>-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajasree460)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajasree460&" alt="rajasree460" /></p>-->
