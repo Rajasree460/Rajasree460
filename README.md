@@ -27,7 +27,7 @@
 
 <!--<p>&nbsp;<img align="center" src="https://githubreadmestats-rajasree-lahas-projects.vercel.app/api?username=rajasree460&show_icons=true&locale=en" alt="rajasree460" /></p>-->
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajasree460)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajasree460)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<a href="https://github.com/Rajasree460/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rajasree460" />
@@ -59,4 +59,4 @@
 <!--[![GitHub Streak](https://rajasree-github-readme-streak-stats.vercel.app?user=rajasree460)](https://git.io/streak-stats)-->
 [![GitHub Streak](https://github-readme-streak-stats-ii.vercel.app?user=rajasree460)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajasree460)](https://github.com/anuraghazra/github-readme-stats)
+
