@@ -25,7 +25,7 @@
 
 
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasree460&layout=compact)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasree460&layout=compact)
 
 
 
@@ -83,15 +83,17 @@
 
 
 <div style="display: flex;">
-  <img style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasree460&layout=compact" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
+  <!--<img style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasree460&layout=compact" alt="Top Languages">-->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" >
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajasree460" >
 </div>
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for MishManners" >
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rajasree460" >
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for MishManners" >
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rajasree460" >-->
+
 
 
 <!-- Optional: Snake Contributions Graph (must be enabled via GitHub Action) -->
