@@ -77,8 +77,8 @@
 
 <!-- Optional: Custom Badges for PRs and Contributions -->
 <p>
-  <img src="https://img.shields.io/badge/Pull%20Requests-100%2B-blue" alt="PR Count"/>
-  <img src="https://img.shields.io/badge/Total%20Contributions-1000%2B-brightgreen" alt="Total Contributions"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-50%2B-blue" alt="PR Count"/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-2500%2B-brightgreen" alt="Total Contributions"/>
 </p>
 
 
