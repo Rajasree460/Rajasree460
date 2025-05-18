@@ -83,7 +83,7 @@
 
 
 <div style="display: flex;">
-  <img style="margin-right: 10px; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasree460&layout=compact" alt="Top Languages">
+  <img style="margin-right: 10px; height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasree460&layout=compact" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" >
   <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=Rajasree460" >-->
 </div>
