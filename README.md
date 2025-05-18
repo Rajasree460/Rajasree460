@@ -48,7 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true" />
 </picture>-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajasree460)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajasree460)](https://github.com/anuraghazra/github-readme-stats)-->
+
 
 <!--[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Rajasree460a&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)-->
@@ -57,14 +59,17 @@
 
 <!--[![GitHub Streak](https://github-readme-streak-stats-i.vercel.app?user=rajasree460)](https://git.io/streak-stats)-->
 <!--[![GitHub Streak](https://rajasree-github-readme-streak-stats.vercel.app?user=rajasree460)](https://git.io/streak-stats)-->
-[![GitHub Streak](https://github-readme-streak-stats-ii.vercel.app?user=rajasree460)](https://git.io/streak-stats)
+
+
+
+<!--[![GitHub Streak](https://github-readme-streak-stats-ii.vercel.app?user=rajasree460)](https://git.io/streak-stats)-->
 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for MishManners" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rajasree460&theme=jolly" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rajasree460&count_private=true" width="700">
 
 
 
