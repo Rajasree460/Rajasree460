@@ -22,7 +22,12 @@
 
 <!--<p><img align="left" src="https://githubreadmestats-rajasree-lahas-projects.vercel.app/api/top-langs?username=rajasree460&show_icons=true&locale=en&layout=compact" alt="rajasree460" /></p>-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasree460&layout=compact)
+
+
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasree460&layout=compact)-->
+
+
 
 
 <!--<p>&nbsp;<img align="center" src="https://githubreadmestats-rajasree-lahas-projects.vercel.app/api?username=rajasree460&show_icons=true&locale=en" alt="rajasree460" /></p>-->
@@ -49,7 +54,13 @@
 </picture>-->
 
 
+
+
+
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajasree460)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
+
 
 
 <!--[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
@@ -62,11 +73,17 @@
 
 
 
+
+
+
 <!--[![GitHub Streak](https://github-readme-streak-stats-ii.vercel.app?user=rajasree460)](https://git.io/streak-stats)-->
 
 
+
+
+
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasree460&layout=compact" alt="Top Languages">
+  <img style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasree460&layout=compact" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
 </div>
 
