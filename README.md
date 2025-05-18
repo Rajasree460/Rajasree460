@@ -69,7 +69,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for MishManners" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rajasree460&count_private=true" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rajasree460&count_private=true" >
 
 
 
