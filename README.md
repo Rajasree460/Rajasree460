@@ -65,6 +65,30 @@
 <!--[![GitHub Streak](https://github-readme-streak-stats-ii.vercel.app?user=rajasree460)](https://git.io/streak-stats)-->
 
 
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajasree460&layout=compact"
+    alt="Top Languages"
+    height="120"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact"
+    alt="GitHub Stats"
+    height="120"
+  />
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Rajasree460&theme=gruvbox&no-frame=true&column=1&row=1&title=PullRequest,Commit"
+    alt="GitHub Profile Trophy"
+    height="120"
+  />
+
+</div>
+
+
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for MishManners" >
