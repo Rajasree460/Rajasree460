@@ -90,7 +90,7 @@
 
 
 
-<div style="display: flex; justify-content: left;">
+<div style="display: flex; justify-content: center;">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for MishManners" >-->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajasree460" >
 </div>
@@ -101,7 +101,7 @@
 <!--<img src="https://github.com/Rajasree460/Rajasree460/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />-->
 
 <!-- Optional: Custom Badges for PRs and Contributions -->
-<p style="display: flex; justify-content: left; gap: 10px;">
+<p style="display: flex; items:center; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Pull%20Requests-50%2B-blue" alt="PR Count"/>
   <img src="https://img.shields.io/badge/Total%20Contributions-2500%2B-brightgreen" alt="Total Contributions"/>
 </p>
