@@ -102,8 +102,8 @@
 
 <!-- Optional: Custom Badges for PRs and Contributions -->
 <p style="display: flex; items:center; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Pull%20Requests-50%2B-blue" alt="PR Count"/>
-  <img src="https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1500%2B-brightgreen" alt="Total Contributions In Last Year"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-100%2B-blue" alt="PR Count"/>
+  <img src="https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-2000%2B-brightgreen" alt="Total Contributions In Last Year"/>
 </p>
 
 
