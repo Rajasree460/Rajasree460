@@ -1,12 +1,10 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi 👋, I'm Rajasree Laha</h1>
-<h3 align="center">A Passionate FullStack Developer From India</h3>
+<h3 align="center">A Software Engineer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajasree460&label=Profile%20views&color=0e75b6&style=flat" alt="rajasree460" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajasree460" alt="rajasree460" /></a> </p>
-
-- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **laharajasree121@gmail.com**
 
