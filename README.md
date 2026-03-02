@@ -20,8 +20,8 @@
 
 
 <div style="display: flex;">
-  <img style="margin-right: 10px; height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajasree460&layout=compact&theme=tokyonight" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight" alt="GitHub Stats">
+  <img style="margin-right: 10px; height: 195px;" src="https://github-readme-stats-9lxu.vercel.app/api/top-langs/?username=Rajasree460&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats-9lxu.vercel.app/api?username=Rajasree460&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajasree460" > -->
 </div>
 
